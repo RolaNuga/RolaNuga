@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RolaNuga
-- 👀 I’m interested in ...CMS,ML DevOps
+- 👀 I’m interested in ...Digital Transformation,Data Engineering,ML DevOps
 - 🌱 I’m currently learning ...AI/ML
 - 💞️ I’m looking to collaborate on ...Many things
 
